@@ -1,0 +1,1 @@
+welcome mr ... <?php echo $fullname; ?>
